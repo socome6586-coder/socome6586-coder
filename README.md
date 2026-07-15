@@ -105,7 +105,7 @@
 
 <br/>
 
-#### 🎓 EduBridge — 성적·상담 관리 & AI 리포트 *(진행 중)*
+#### 🎓 EduBridge — AI기능이 반영 된 학원 출결 앱 *(진행 중)*
 > 팀 프로젝트 · 성적/상담 관리 및 AI 리포트 기능 담당
 
 `Java` `Spring Boot` `Spring Security` `MyBatis` `PostgreSQL` `Chart.js` `Gemini API`
