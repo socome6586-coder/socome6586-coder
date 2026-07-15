@@ -105,8 +105,8 @@
 
 <br/>
 
-#### 🎓 EduBridge — AI기능이 반영 된 학원 출결 앱 *(진행 중)*
-> 팀 프로젝트 · 성적/상담 관리 및 AI 리포트 기능 담당
+#### 🎓 EduBridge — AI 기능이 반영된 학원 출결 앱 *(진행 중)*
+> 팀 프로젝트 · 출결·성적/상담 관리 및 AI 리포트 기능 담당
 
 `Java` `Spring Boot` `Spring Security` `MyBatis` `PostgreSQL` `Chart.js` `Gemini API`
 
@@ -118,8 +118,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=socome6586-coder&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=555&bg_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=socome6586-coder&layout=compact&hide_border=true&title_color=2563EB&text_color=555&bg_color=FFFFFF" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=socome6586-coder&theme=default" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=socome6586-coder&theme=default" alt="Top Languages"/>
 </p>
 
 <p align="center">
