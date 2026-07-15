@@ -126,6 +126,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=socome6586-coder&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&background=FFFFFF" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=socome6586-coder&bg_color=FFFFFF&color=2563EB&line=2563EB&point=2563EB&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
 <br/>
 
 ### 🎯 이런 개발자입니다
