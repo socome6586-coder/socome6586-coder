@@ -31,15 +31,23 @@ Java와 Spring Boot 기반 웹 서비스를 기획부터 개발·배포까지 �
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/> <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA"/> <img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square" alt="MyBatis"/> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/> <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA"/> <img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square" alt="MyBatis"/> <img src="https://img.shields.io/badge/JSP%2FServlet-D22128?style=flat-square&logo=apachetomcat&logoColor=white" alt="JSP/Servlet"/> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API"/>
 
 **Database**
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway"/>
 
-**Frontend & Tools**
+**Frontend**
 
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JSP"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Responsive_Web-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Responsive Web"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/> <img src="https://img.shields.io/badge/STS(Eclipse)-2C2255?style=flat-square&logo=eclipseide&logoColor=white" alt="STS(Eclipse)"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver"/> <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white" alt="SQL Developer"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
+
+**External API**
+
+<img src="https://img.shields.io/badge/Toss_Payments-0064FF?style=flat-square&logoColor=white" alt="Toss Payments"/> <img src="https://img.shields.io/badge/CoolSMS-00A2E8?style=flat-square&logoColor=white" alt="CoolSMS"/> <img src="https://img.shields.io/badge/Brevo-0B996E?style=flat-square&logo=brevo&logoColor=white" alt="Brevo"/> <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0"/>
 
 <br/>
 
