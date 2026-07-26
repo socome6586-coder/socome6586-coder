@@ -159,3 +159,11 @@ Java와 Spring Boot 기반 웹 서비스를 기획부터 개발·배포까지 �
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=socome6586-coder&bg_color=FFFFFF&color=2563EB&line=2563EB&point=2563EB&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=socome6586-coder&show_icons=true&include_all_commits=true&count_private=true&hide=stars&bg_color=FFFFFF&title_color=2563EB&text_color=000000&icon_color=2563EB&border_color=E5E7EB&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=socome6586-coder&theme=flat&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
+</p>
