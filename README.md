@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://lightdrone.co.kr"><img src="https://img.shields.io/badge/운영중-lightdrone.co.kr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:socome6586@gmail.com"><img src="https://img.shields.io/badge/메일-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://app.notion.com/p/lightdrone-395768cb39df80e08ab3e7706bec65a6"><img src="https://img.shields.io/badge/노션-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=socome6586@gmail.com"><img src="https://img.shields.io/badge/socome6586@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://app.notion.com/p/62f768cb39df82c79012813557856c63"><img src="https://img.shields.io/badge/노션-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=socome6586-coder&style=for-the-badge&color=2563EB&label=%EB%B0%A9%EB%AC%B8"/>
 </p>
 
