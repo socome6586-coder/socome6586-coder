@@ -1,169 +1,246 @@
-<h1 align="center">조민석 · Backend Developer</h1>
+<!-- ═══════════════ 헤더 ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:60A5FA&height=200&section=header&text=%EC%A1%B0%EB%AF%BC%EC%84%9D&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=52&descSize=20&animation=fadeIn"/>
 
 <p align="center">
-  쓰는 사람 입장을 먼저 고민하는 개발자가 되겠습니다.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2563EB&center=true&vCenter=true&width=600&lines=%EC%93%B0%EB%8A%94+%EC%82%AC%EB%9E%8C+%EC%9E%85%EC%9E%A5%EC%9D%84+%EB%A8%BC%EC%A0%80+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4;Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://lightdrone.co.kr">
-    <img src="https://img.shields.io/badge/운영중_서비스-lightdrone.co.kr-2563EB?style=flat-square&logoColor=white" alt="LightDrone"/>
-  </a>
-  <a href="mailto:socome6586@gmail.com">
-    <img src="https://img.shields.io/badge/Email-socome6586@gmail.com-555555?style=flat-square" alt="Email"/>
-  </a>
+  <a href="https://lightdrone.co.kr"><img src="https://img.shields.io/badge/운영중-lightdrone.co.kr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:socome6586@gmail.com"><img src="https://img.shields.io/badge/메일-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://app.notion.com/p/lightdrone-395768cb39df80e08ab3e7706bec65a6"><img src="https://img.shields.io/badge/노션-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=socome6586-coder&style=for-the-badge&color=2563EB&label=%EB%B0%A9%EB%AC%B8"/>
 </p>
 
 <br/>
 
-## About
+<!-- ═══════════════ 소개 ═══════════════ -->
+<h2 align="center">소개</h2>
 
-Java와 Spring Boot 기반 웹 서비스를 기획부터 개발·배포까지 직접 경험한 백엔드 개발자입니다.
-기존 홈페이지 운영자의 요청으로 실제 운영 중인 농업용 드론 쇼핑몰 라이트드론을 PHP에서 Spring Boot로 단독 재구축하며, 결제·인증·DB 마이그레이션처럼 운영에 필요한 기능을 직접 다뤄봤습니다.
-비전공에서 시작해 매일 학습하며 기본기를 다지고 있으며, 문제가 생기면 원인과 조치를 기록해 같은 문제를 반복하지 않도록 합니다.
+<p align="center">
+<b>기획부터 개발·배포까지</b> 직접 해보며 배우고 있는 신입 백엔드 개발자입니다.
+</p>
 
-<br/>
+```yaml
+이름:   조민석
+직무:   백엔드 개발자 (신입)
+주력:   [Java, Spring Boot, PostgreSQL]
 
-## Tech Stack
+만든_것:
+  - lightdrone.co.kr    # 농업용 드론 쇼핑몰 · 운영 중 · 단독 개발
+  - sellerprofit.co.kr  # 쿠팡 순이익 분석 · 개발 중
 
-**Language**
+해본_것:
+  - PHP 쇼핑몰을 Spring Boot로 재구축 (인증 · 결제 · 상품 · 주문 · 관리자)
+  - 결제 연동과 DB 마이그레이션을 실제 운영 환경에서 처리
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+배우는_중:
+  - 테스트 코드 작성, 쿼리 성능 개선, 클라우드 배포
 
-**Backend**
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/> <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA"/> <img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square" alt="MyBatis"/> <img src="https://img.shields.io/badge/JSP%2FServlet-D22128?style=flat-square&logo=apachetomcat&logoColor=white" alt="JSP/Servlet"/> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API"/>
-
-**Database**
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway"/>
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JSP"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Responsive_Web-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Responsive Web"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/> <img src="https://img.shields.io/badge/STS(Eclipse)-2C2255?style=flat-square&logo=eclipseide&logoColor=white" alt="STS(Eclipse)"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver"/> <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white" alt="SQL Developer"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
-
-**External API**
-
-<img src="https://img.shields.io/badge/Toss_Payments-0064FF?style=flat-square&logoColor=white" alt="Toss Payments"/> <img src="https://img.shields.io/badge/CoolSMS-00A2E8?style=flat-square&logoColor=white" alt="CoolSMS"/> <img src="https://img.shields.io/badge/Brevo-0B996E?style=flat-square&logo=brevo&logoColor=white" alt="Brevo"/> <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0"/>
+일하는_방식: >
+  비전공으로 시작해 매일 조금씩 쌓아가고 있습니다.
+  막힌 부분은 원인과 조치를 기록으로 남겨
+  같은 문제를 두 번 겪지 않으려 합니다.
+```
 
 <br/>
 
-## Projects
+<!-- ═══════════════ 기술 스택 ═══════════════ -->
+<h2 align="center">기술 스택</h2>
 
-<table>
+<p align="center"><b>언어 &amp; 백엔드</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven&theme=dark" />
+</p>
+
+<p align="center"><b>데이터베이스 &amp; 인프라</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,nginx&theme=dark" />
+</p>
+
+<p align="center"><b>프론트엔드</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap,jquery&theme=dark" />
+</p>
+
+<p align="center"><b>도구</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,postman&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Toss_Payments-0064FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════ 프로젝트 ═══════════════ -->
+<h2 align="center">프로젝트</h2>
+
+<table align="center">
 <tr>
-<td width="50%" align="center"><h3>라이트드론 — 드론 판매 쇼핑몰</h3></td>
-<td width="50%" align="center"><h3>셀러프로핏 — 쿠팡 순이익 분석 서비스 <em>(진행 중)</em></h3></td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td width="50%" align="center">
-<a href="https://lightdrone.co.kr"><img src="lightdrone.png" width="100%" alt="라이트드론 메인 화면"/></a>
-</td>
-<td width="50%" align="center">
-<a href="https://sellerprofit.co.kr"><img src="sellerprofit.png" width="100%" alt="셀러프로핏 화면"/></a>
-</td>
-</tr>
+<a href="https://lightdrone.co.kr"><img src="lightdrone.png" width="100%"/></a>
 
-<tr valign="top">
-<td width="50%">
-<p align="center"><em>실제 운영 중인 농업용 드론 판매 쇼핑몰<br/>기획부터 개발·배포까지 단독 수행</em></p>
-<p><b>Tech</b> · Java 21 · Spring Boot · Spring Security · JPA · PostgreSQL · Flyway · Toss Payments · OAuth2</p>
-<ul>
-<li>기존 PHP 사이트를 중단 없이 Spring Boot로 재구축 — 인증·결제·상품·주문·관리자 콘솔 전면 이전</li>
-<li>운영자가 코드 수정 없이 홈 화면을 관리하는 홈 패널 관리 기능 설계·구현</li>
-<li>Toss Payments 결제 연동 — 멱등 처리로 중복 결제·중복 SMS 차단, Webhook은 원장 재조회로 검증</li>
-<li>Flyway 기반 스키마 변경 이력 관리, 시크릿 환경변수 외부화로 보안 강화</li>
-</ul>
-</td>
-<td width="50%">
-<p align="center"><em>개인 프로젝트<br/>쿠팡 정산·주문 데이터 기반 상품별 순이익 분석</em></p>
-<p><b>Tech</b> · Java 21 · Spring Boot · Spring Data JPA · PostgreSQL · React · Vite · Docker · Caddy</p>
-<ul>
-<li>Spring Boot REST API + React 반응형 UI 개발</li>
-<li>Coupang Open API 연동, Docker/Caddy 기반 배포 환경 구성</li>
-</ul>
-</td>
-</tr>
+### 라이트드론
 
-<tr>
-<td width="50%" align="center">
-<a href="https://lightdrone.co.kr"><img src="https://img.shields.io/badge/운영_사이트-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a>
-<a href="https://github.com/socome6586-coder/lightdrone"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://app.notion.com/p/lightdrone-395768cb39df80e08ab3e7706bec65a6"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/></a>
-</td>
-<td width="50%" align="center">
-<a href="https://sellerprofit.co.kr"><img src="https://img.shields.io/badge/사이트-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a>
-<a href="https://github.com/socome6586-coder/seller-profit"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://app.notion.com/p/seller-profit-39c768cb39df800fbfc9e9ff5caa6bba"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/></a>
-</td>
-</tr>
+<img src="https://img.shields.io/badge/운영_중-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/단독_개발-6B7280?style=flat-square"/>
 
-<tr>
-<td width="50%" align="center"><h3>SBN (Social Baseball Net) — 사회인 야구단 커뮤니티</h3></td>
-<td width="50%" align="center"><h3>EduBridge — AI 기능이 반영된 학원 출결 앱 <em>(진행 중)</em></h3></td>
-</tr>
+> 실제 운영 중인 농업용 드론 판매 쇼핑몰
 
-<tr valign="top">
-<td width="50%">
-<p align="center"><em>4인 팀 프로젝트<br/>Team 파트 담당, 전체 UI/UX 주도</em></p>
-<p><b>Tech</b> · Java · Spring Boot · MyBatis · Oracle · JSP</p>
-<ul>
-<li>Team 파트 전체 CRUD(목록·상세·생성·가입신청·승인/거절/제거) 및 팀 로고 업로드 구현</li>
-<li>전체 27개 JSP 페이지 UI/UX 디자인 주도, 9개 테이블 ERD 설계 참여</li>
-<li><code>main → develop → feature</code> Git 브랜치 전략 + PR 코드 리뷰 기반 협업</li>
-</ul>
-</td>
-<td width="50%">
-<p align="center"><em>팀 프로젝트<br/>출결·성적/상담 관리 및 AI 리포트 기능 담당</em></p>
-<p><b>Tech</b> · Java · Spring Boot · Spring Security · MyBatis · PostgreSQL · Chart.js · Gemini API</p>
-<ul>
-<li>성적 입력/조회 자동화, 성적 추이 시각화(Chart.js)</li>
-<li>Gemini API 연동 AI 리포트, 권한별 화면 분리</li>
-</ul>
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&theme=dark" height="32"/>
 
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/ssm512/SBNPrj"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://app.notion.com/p/Social-Baseball-Net-SBN-39c768cb39df8024b92edd66dabc556a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/></a>
+- 기존 PHP 사이트를 **중단 없이** Spring Boot로 전면 이전
+- 운영자가 코드 수정 없이 홈 화면을 바꾸는 **홈 패널 관리** 구현
+- Toss Payments 연동 시 **멱등 처리**로 중복 결제·SMS 차단, Webhook은 원장 재조회로 검증
+- Flyway로 스키마 이력 관리, 시크릿 환경변수 외부화
+
+<a href="https://lightdrone.co.kr"><img src="https://img.shields.io/badge/사이트-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/socome6586-coder/lightdrone"><img src="https://img.shields.io/badge/코드-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://app.notion.com/p/lightdrone-395768cb39df80e08ab3e7706bec65a6"><img src="https://img.shields.io/badge/문서-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
 </td>
-<td width="50%" align="center">
-<a href="https://github.com/ssm512/EduBridgePrj"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<td width="50%" valign="top">
+
+<a href="https://sellerprofit.co.kr"><img src="sellerprofit.png" width="100%"/></a>
+
+### 셀러프로핏
+
+<img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/개인_프로젝트-6B7280?style=flat-square"/>
+
+> 쿠팡 정산·주문 데이터로 상품별 순이익을 분석
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,docker&theme=dark" height="32"/>
+
+- Spring Boot REST API + React 반응형 화면 개발
+- Coupang Open API 연동으로 정산·주문 데이터 자동 수집
+- 상품 단위 마진 계산 로직 설계
+- Docker / Caddy 기반 배포 환경 구성
+
+<a href="https://sellerprofit.co.kr"><img src="https://img.shields.io/badge/사이트-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/socome6586-coder/seller-profit"><img src="https://img.shields.io/badge/코드-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://app.notion.com/p/seller-profit-39c768cb39df800fbfc9e9ff5caa6bba"><img src="https://img.shields.io/badge/문서-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>팀 프로젝트 더 보기 — SBN · EduBridge</b></summary>
+<br/>
 
-## Education
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-- **『디지털컨버전스』 데이터 융합 자바(JAVA) & 스프링(Spring) A** · 그린컴퓨터아카데미 · 2026.02 – 2026.08
-  - Java·Spring 기반 웹 애플리케이션 개발 및 서버 프로그래밍
-  - JSP·Servlet 활용 CRUD 구현 및 REST API 연동
-  - ORACLE 데이터베이스 설계·구현 및 SQL 활용 데이터 처리
-  - HTML/CSS/JavaScript 기반 화면 구현 및 인터페이스 설계
-  - SW 개발 보안 구축, 애플리케이션 테스트 및 프로젝트 수행
-- **컴퓨터공학 학사 취득 중** · 학점은행제 + 자격증 시험 병행
+### SBN (Social Baseball Net)
 
-## Activity
+<img src="https://img.shields.io/badge/4인_팀-6B7280?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI%2FUX_주도-2563EB?style=flat-square"/>
+
+> 사회인 야구단 커뮤니티 — Team 파트 담당
+
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="32"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+- Team 파트 **전체 CRUD**(목록·상세·생성·가입신청·승인/거절/제거) 및 팀 로고 업로드 구현
+- 전체 **27개 JSP 페이지** UI/UX 디자인 주도, **9개 테이블** ERD 설계 참여
+- `main → develop → feature` 브랜치 전략과 PR 코드 리뷰 기반 협업
+
+<a href="https://github.com/ssm512/SBNPrj"><img src="https://img.shields.io/badge/코드-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://app.notion.com/p/Social-Baseball-Net-SBN-39c768cb39df8024b92edd66dabc556a"><img src="https://img.shields.io/badge/문서-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### EduBridge
+
+<img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/팀_프로젝트-6B7280?style=flat-square"/>
+
+> AI 리포트가 붙은 학원 출결·성적 관리 앱
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres&theme=dark" height="32"/>
+
+- 성적 입력/조회 자동화, 성적 추이 시각화(Chart.js)
+- **Gemini API** 연동 AI 학습 리포트 생성
+- Spring Security 기반 권한별 화면 분리
+
+<a href="https://github.com/ssm512/EduBridgePrj"><img src="https://img.shields.io/badge/코드-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<!-- ═══════════════ 활동 기록 ═══════════════ -->
+<h2 align="center">활동 기록</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=socome6586-coder&locale=ko&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&background=FFFFFF" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=socome6586-coder&locale=ko&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=8B949E&dates=6E7681&stroke=30363D&sideNums=2563EB&currStreakNum=2563EB"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=socome6586-coder&bg_color=FFFFFF&color=2563EB&line=2563EB&point=2563EB&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=socome6586-coder&bg_color=00000000&color=2563EB&line=2563EB&point=60A5FA&area=true&area_color=2563EB&hide_border=true&custom_title=%EC%BB%A4%EB%B0%8B%20%ED%9D%90%EB%A6%84"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=socome6586-coder&show_icons=true&include_all_commits=true&count_private=true&hide=stars&bg_color=FFFFFF&title_color=2563EB&text_color=000000&icon_color=2563EB&border_color=E5E7EB&hide_border=true" alt="GitHub Stats"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=socome6586-coder&theme=flat&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
-</p>
+<!-- ═══════════════ 교육 ═══════════════ -->
+<h2 align="center">교육</h2>
+
+<table align="center">
+<tr>
+<td valign="top" width="32%">
+
+**그린컴퓨터아카데미**
+
+`2026.02 – 2026.08`
+
+『디지털컨버전스』
+데이터 융합 자바 &amp; 스프링 A
+
+</td>
+<td valign="top" width="68%">
+
+- Java·Spring 기반 웹 애플리케이션 개발 및 서버 프로그래밍
+- JSP·Servlet 활용 CRUD 구현 및 REST API 연동
+- Oracle 데이터베이스 설계·구현 및 SQL 활용 데이터 처리
+- HTML/CSS/JavaScript 기반 화면 구현 및 인터페이스 설계
+- SW 개발 보안 구축, 애플리케이션 테스트 및 프로젝트 수행
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**컴퓨터공학 학사**
+
+`취득 중`
+
+</td>
+<td valign="top">
+
+- 학점은행제 + 자격증 시험 병행
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:1E3A8A&height=120&section=footer"/>
