@@ -49,24 +49,51 @@
 <h2 align="center">기술 스택</h2>
 
 <p align="center"><b>언어 &amp; 백엔드</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/>Java</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48"/><br/>Spring</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="48"/><br/>Hibernate</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="48"/><br/>Gradle</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48"/><br/>Maven</td>
+  </tr>
+</table>
 
 <p align="center"><b>데이터베이스 &amp; 인프라</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,nginx&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/>Linux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48"/><br/>Nginx</td>
+  </tr>
+</table>
 
 <p align="center"><b>프론트엔드</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap,jquery&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/>HTML5</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/>CSS3</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48"/><br/>Vite</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48"/><br/>Bootstrap</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jquery&theme=dark" width="48"/><br/>jQuery</td>
+  </tr>
+</table>
 
 <p align="center"><b>도구</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,postman&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48"/><br/>IntelliJ IDEA</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="48"/><br/>Eclipse</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/>VS Code</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/>Postman</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -79,7 +106,6 @@
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
 </p>
-
 <br/>
 
 <!-- ═══════════════ 프로젝트 ═══════════════ -->
