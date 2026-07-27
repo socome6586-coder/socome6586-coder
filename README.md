@@ -111,6 +111,8 @@
 <!-- ═══════════════ 프로젝트 ═══════════════ -->
 <h2 align="center">프로젝트</h2>
 
+<p align="center"><b>개인 프로젝트</b></p>
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -162,13 +164,15 @@
 </tr>
 </table>
 
-<details>
-<summary><b>팀 프로젝트 더 보기 — SBN · EduBridge</b></summary>
 <br/>
+
+<p align="center"><b>팀 프로젝트</b></p>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/ssm512/SBNPrj"><img src="sbn.png" width="100%"/></a>
 
 ### SBN (Social Baseball Net)
 
@@ -190,6 +194,8 @@
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/ssm512/EduBridgePrj"><img src="edu.jpg" width="100%"/></a>
+
 ### EduBridge
 
 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square"/>
@@ -208,8 +214,6 @@
 </td>
 </tr>
 </table>
-
-</details>
 
 <br/>
 
