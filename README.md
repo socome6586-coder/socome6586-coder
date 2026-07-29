@@ -220,9 +220,11 @@
 <!-- ═══════════════ 활동 기록 ═══════════════ -->
 <h2 align="center">활동 기록</h2>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=socome6586-coder&locale=ko&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=8B949E&dates=6E7681&stroke=30363D&sideNums=2563EB&currStreakNum=2563EB"/>
-</p>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=socome6586-coder&background=ffffff&border=e4e2e2&stroke=e4e2e2&ring=4d9fff&fire=4d9fff&currStreakNum=333333&currStreakLabel=4d9fff&sideNums=333333&sideLabels=555555&dates=888888)
+
+</div>
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=socome6586-coder&bg_color=00000000&color=2563EB&line=2563EB&point=60A5FA&area=true&area_color=2563EB&hide_border=true&custom_title=%EC%BB%A4%EB%B0%8B%20%ED%9D%90%EB%A6%84"/>
